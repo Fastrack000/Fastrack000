@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Fastrack000/)
 <h1 align="center">Hi 👋, I'm Arnav Dubey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fastrack000&label=Profile%20views&color=0e75b6&style=flat" alt="fastrack000" /> </p>
 
 - 🔭 I’m currently working on [Mern Blog Site](https://github.com/Fastrack000/Mern-Blog)
